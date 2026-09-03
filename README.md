@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Tasin
+# Hi 👋, I'm Tahsinul Hasan Tasin
 
 ### Aspiring Full Stack Web Developer 🚀
 
